@@ -1,9 +1,9 @@
 ---
 layout: project
-title: Torque Wrench CAD and FEA
+title: Torque Wrench
 description: Introductory FEA Project
 technologies: ["Autodesk Fusion", "Ansys Mechanical"]
-image: /assets/images/LongWrench3.jpg
+image: /assets/images/LongWrench3.png
 ---
 
 For my "Mechanics of Engineering Materials Class" (MAE 3270), we were asked to design a torque wrench capable of applying up to 600 Nm of torque while also meeting certain safety criterion. The wrench had to be modeled in a CAD software and then analyzed using FEA. The goal was not to create an aesthetically pleasing wrench, it was to create a functional one. 
