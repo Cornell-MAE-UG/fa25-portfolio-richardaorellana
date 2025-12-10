@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Richard Orellana
 description              : Richard Orellana - Projects and CV 
-baseurl                  : "" # Set this to your repo name 
+baseurl                  : "/fall-2025-portfolio-richardaorellana/"
 
 # Theme and Style
 theme: jekyll-theme-minimal
