@@ -2,7 +2,7 @@
 layout: project
 title: Torque Wrench CAD and FEA
 description: Introductory FEA Project
-technologies: [Autodesk Fusion], [Ansys Mechanical]
+technologies: ["Autodesk Fusion", "Ansys Mechanical"]
 image: /assets/images/LongWrench3.jpg
 ---
 
