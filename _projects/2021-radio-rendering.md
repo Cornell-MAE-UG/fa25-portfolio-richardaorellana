@@ -8,9 +8,9 @@ image: /assets/images/LongWrench3.jpg
 
 For my "Mechanics of Engineering Materials Class" (MAE 3270), we were asked to design a torque wrench capable of applying up to 600 Nm of torque while also meeting certain safety criterion. The wrench had to be modeled in a CAD program and then analyzed using FEA. The goal was not to create an aesthetically pleasing wrench, it was to create a functional one. 
 
-Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
-
-![Shaded rendering of earlier version]({{ "/assets/images/radio-machine.jpg" | relative_url }}){: .inline-image-r style="width: 200px"}
+![LongWrench1]({{ "/assets/images/LongWrench1.png" | relative_url }}){: .inline-image-l}
+![LongWrench2]({{ "/assets/images/LongWrench2.png" | relative_url }}){: .inline-image-l}
+![LongWrench3]({{ "/assets/images/LongWrench3.png" | relative_url }}){: .inline-image-l}
 
 Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
 
