@@ -16,8 +16,11 @@ The material chosen for this wrench was Ti-4Al-6V, one of the most commonly used
 
 This model was then imported into Ansys Mechanical and a finite element analysis was done of it. The meshing for this model had around ~30k nodes arranged into rectangles on the relevant faces. While Ansys does not make use of the plane strain assumption used in beam theory, all hand calculations were based on planar stress elements. The top 0.4 inches of the drive were clamped down using a zero displacement condition and a force of 30 lbf was applied to the end of the wrench, perpendicular to its length. 
 
-![Photo of old radio]({{ "/assets/images/old-radio.jpg" | relative_url }}){: .inline-image-l}
+![TipDisplacement]({{ "/assets/images/TipDisplacement.png" | relative_url }}){: .inline-image-l}
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+Here are some photos of the results!
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+![NormalStrain]({{ "/assets/images/NormalStrain.png" | relative_url }}){: .inline-image-l}
+![MaxPrincipal]({{ "/assets/images/MaxPrincipal.png" | relative_url }}){: .inline-image-l}
+
+
