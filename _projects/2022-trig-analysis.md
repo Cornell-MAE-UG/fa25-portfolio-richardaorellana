@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Satellite Attitude
+title: Satellite Attitude Model
 description: Class project on control systems
 technologies: [LaTeX]
 image: /assets/images/JWST.jpg
