@@ -2,7 +2,6 @@
 layout: project
 title: Small Engine Dissection
 description: Short group presentation on an engine 
-technologies: 
 image: /assets/images/Engine.jpg
 ---
 
