@@ -6,6 +6,6 @@ technologies:
 image: /assets/images/Engine.jpg
 ---
 
-My group and I (Group Stone) were given an engine to tear apart. I made around half of the slides and voiced around the first minute and a half of this video.
+My group and I (Group Stone) were given an engine to tear apart. I made around half of the slides and voiced around the first minute and a half of this video. Click on the thumbnail to view it!
 
 [![Watch the video](https://img.youtube.com/vi/DPTMppGmtYk/hqdefault.jpg)](https://youtu.be/DPTMppGmtYk)
